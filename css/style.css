@@ -1,0 +1,250 @@
+* {
+  max-width: 697px;
+  max-height: 1264px;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: 'Ropa Sans', sans-serif;
+  color: #777;
+  font-size: 30px;
+  font-weight: 200;
+  text-transform: uppercase;
+  font-style: normal;
+  justify-content: end;
+  box-shadow: 0px 5px 5px #aaa;
+}
+
+.slogan {
+  display: flex;
+  font-size: 10px;
+  text-transform: capitalize;
+  color: #aaa;
+  flex-direction: column;
+  margin: 0%;
+  margin-right: 240px;
+}
+
+.menu {
+  margin-right: 31px;
+}
+
+.logo {
+  display: flex;
+  margin: 10px;
+}
+.caixa1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.caixa2 {
+  display: flex;
+  flex-direction: column;
+  max-width: 256px;
+  max-height: 242px;
+  background-color: #eee;
+  margin-right: 30px;
+  align-content: flex-start;
+  margin-left: 37px;
+  margin-top: 37px;
+}
+
+.valorcaixa2 {
+  display: flex;
+  font-size: 25px;
+  color: #888;
+  margin-left: 12px;
+  margin-top: 9px;
+}
+
+.pcaixa2,
+.pcaixa3 {
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 10px;
+  color: #555;
+  margin-top: 13px;
+  margin-left: 6px;
+}
+
+.botaoverde {
+  max-height: 19px;
+  max-width: 48px;
+  background: #51d275;
+  border-radius: 10.5px;
+  color: #eee;
+  text-transform: capitalize;
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 20px;
+  padding: 0;
+  margin-top: -50px;
+  display: flex;
+  margin-left: 172px;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.container {
+  display: flex;
+}
+.caixa3 {
+  display: flex;
+  flex-direction: column;
+  max-width: 256px;
+  max-height: 242px;
+  background-color: #eee;
+  margin-right: 36px;
+  align-content: flex-start;
+  margin-left: 56px;
+  margin-top: 37px;
+}
+
+.valorcaixa3 {
+  display: flex;
+  font-size: 25px;
+  color: #888;
+  margin-left: 12px;
+  margin-top: 9px;
+}
+
+.botaoamarelo {
+  max-height: 19px;
+  max-width: 48px;
+  background: #dc9730;
+  border-radius: 10.5px;
+  color: #eee;
+  text-transform: capitalize;
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 20px;
+  padding: 0;
+  margin-top: -50px;
+  display: flex;
+  margin-left: 172px;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+#yourstyle {
+  display: flex;
+  justify-content: center;
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 25px;
+  text-transform: capitalize;
+  color: #888;
+  margin-top: 54px;
+  margin-bottom: 15px;
+}
+
+.caixa4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 608px;
+  height: 80px;
+  background: url('/Imagens/download\ \(1\).jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+  color: #fff;
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 25px;
+  text-transform: capitalize;
+  margin-left: 37px;
+}
+
+.caixa5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 608px;
+  height: 80px;
+  background: url('/Imagens/download\ \(3\).jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+  color: #fff;
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 25px;
+  text-transform: capitalize;
+  margin-left: 37px;
+  margin-top: 13px;
+}
+
+.caixa6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 608px;
+  height: 80px;
+  background: url('/Imagens/download\ \(4\).jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+  color: #fff;
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 25px;
+  text-transform: capitalize;
+  margin-left: 37px;
+  margin-top: 13px;
+  margin-bottom: 57px;
+}
+
+footer {
+  width: 697px;
+  height: 243px;
+  background-color: #333333;
+  display: flex;
+}
+
+.mapa {
+  padding-left: 43px;
+  height: 163px;
+  width: 252px;
+  margin-top: 40px;
+}
+
+#pfooter {
+  width: 144px;
+  height: 143px;
+  font-family: 'Ropa sans', sans-serif;
+  font-size: 12px;
+  color: #fff;
+  padding-left: 177px;
+  padding-top: 16px;
+  line-height: 3;
+}
+
+.media {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  font-family: 'Ropa sans', sans-serif;
+  font-size: 12px;
+}
+
+#pmedia {
+  padding-left: 177px;
+  margin-top: -7px;
+  text-transform: uppercase;
+}
+
+.iconmedia {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 50px;
+}
+
+#icon3 {
+  margin-left: 17px;
+}
+
+#icon2 {
+  margin-left: 17px;
+}
