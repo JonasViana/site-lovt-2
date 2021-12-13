@@ -148,7 +148,7 @@ header {
   align-items: center;
   width: 608px;
   height: 80px;
-  background: url('/Imagens/imagem-industrial.jpg');
+  background: url('/Imagens/industrial.jfif');
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.5;
@@ -165,7 +165,7 @@ header {
   align-items: center;
   width: 608px;
   height: 80px;
-  background: url('/Imagens/imagem-mordern.jpg');
+  background: url('/Imagens/modern.jfif');
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.5;
@@ -183,7 +183,7 @@ header {
   align-items: center;
   width: 608px;
   height: 80px;
-  background: url('/Imagens/imagem-classic.jpg');
+  background: url('/Imagens/classic.jfif');
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.5;
